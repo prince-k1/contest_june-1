@@ -1,0 +1,193 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #262626;
+    color: whitesmoke;
+}
+
+
+.header .head-element{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.head-element .logo{
+    position: absolute;
+width: 159px;
+height: 72px;
+left: 59px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+}
+
+.head-element .search-bar input{
+    position: absolute;
+    width: 597px;
+    height: 53px;
+    left: 319px;
+    top: 33px;
+    border-radius: 15px;
+    background-color: #262626;
+
+}
+
+.head-element .login{
+    position: absolute;
+    width: 60px;
+    height: 32px;
+    left: 995px;
+    top: 43px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.head-element .explore{
+    position: absolute;
+    width: 82px;
+    height: 32px;
+    left: 1149px;
+    top: 43px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.head-element .rent{
+    position: absolute;
+    width: 52px;
+    height: 32px;
+    left: 1310px;
+    top: 43px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+h1{
+    position: absolute;
+width: 335px;
+height: 53px;
+left: 105px;
+top: 178px;
+
+font-family: 'Poppins';
+font-style: normal;
+/* font-weight: 600; */
+font-size: 48px;
+line-height: 72px;
+}
+
+.inline{
+    display: flex;
+}
+
+.shopping{
+    display: inline;
+}
+
+.imag-cart img{
+    position: absolute;
+width: 105px;
+height: 105px;
+left: 93px;
+top: 293px;
+
+background: #FECB03;
+border-radius: 100px;
+}
+
+.rent{
+    position: absolute;
+width: 846px;
+height: 53px;
+left: 224px;
+top: 322px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+}
+
+.imag-tag img{
+    position: absolute;
+width: 105px;
+height: 105px;
+left: 93px;
+top: 427px;
+
+background: #FECB03;
+border-radius: 100px;
+}
+
+.no-worry{
+    position: absolute;
+width: 846px;
+height: 53px;
+left: 224px;
+top: 456px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+}
+
+.imag-radio img{
+    position: absolute;
+width: 105px;
+height: 105px;
+left: 93px;
+top: 561px;
+
+background: #FECB03;
+border-radius: 100px;
+}
+
+.online{
+    position: absolute;
+width: 846px;
+height: 53px;
+left: 224px;
+top: 590px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+}
+
+.imag-clock img{
+    position: absolute;
+width: 291px;
+height: 291px;
+left: 1045px;
+top: 231px;
+
+}
+
+
